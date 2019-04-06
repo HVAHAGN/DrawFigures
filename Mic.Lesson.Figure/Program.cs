@@ -25,6 +25,7 @@ namespace Mic.Lesson.Figure
 
             };
 
+
             foreach(var shape in shapes)
             {
                 Print(shape);
